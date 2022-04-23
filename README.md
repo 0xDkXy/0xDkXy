@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<!--
+I'm 0xDkXy, here is the place where I do some interesting works 
+
+### About Me 😝
+- 👨‍🎓 I'm a undergraduate student learning Computer Science
+- 🔭 Currently playing C++, Python and Java
+- 🎈 Interested in Computer Graphics
+- ⚽ Like playing football, A fan of FC Barcelona
+- 📠 Reach me: [@0xDkXy](mailto:bo001015@outlook.com)
+<!-- 
 **0xDkXy/0xDkXy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
