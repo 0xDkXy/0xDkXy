@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm 0xDkXy, here is the place where I do some interesting works 
+I'm 0xDkXy, here is the place where I do some interesting works ✨
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDkXy&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true">
@@ -13,11 +13,11 @@ I'm 0xDkXy, here is the place where I do some interesting works
 </a>
 
 ### About Me 😝
-- 👨‍🎓 I'm a undergraduate student learning Computer Science
+- 👨‍🎓 An undergraduate student learning Computer Science
 - 🔭 Currently playing C++, Python and Java
 - 🎈 Interested in Computer Graphics
 - ⚽ Like playing football, A fan of FC Barcelona
-- 📠 Reach me: [@0xDkXy](mailto:bo001015@outlook.com)
+- 📫 How to reach me: [@0xDkXy](mailto:bo001015@outlook.com)
 
 <img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-snake.svg">
 
