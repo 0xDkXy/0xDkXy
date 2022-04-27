@@ -2,15 +2,16 @@
 
 I'm 0xDkXy, here is the place where I do some interesting works ✨
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDkXy&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true&include_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,1E90FF&title_color=fff&text_color=fefefe">
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a sytle="width: 0px;" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,1E90FF&title_color=fff&text_color=fefefe">
-</a>
+</a> -->
 
 ### About Me 😝
 - 👨‍🎓 An undergraduate student learning Computer Science
