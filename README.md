@@ -9,14 +9,14 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
   <a href="https://github.com/0xDkXy">
     <img
       align="center"
-      height="150em"
+      height="200em"
       src="https://github-readme-stats.vercel.app/api?username=0xDkXy&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true&include_all_commits=true"
     />
   </a>
   <a href="https://github.com/0xDkXy">
     <img
       align="center"
-      height="150em"
+      height="200em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,00bfff&layout=compact&text_color=fff"
     />
   </a>
@@ -45,7 +45,7 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 
 <img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-snake.svg">
 
-![Metrics](https://metrics.lecoq.io/0xDkXy?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/0xDkXy?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&discussions=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=1&config.timezone=Asia%2FShanghai&config.twemoji=true)
 <!-- 
 **0xDkXy/0xDkXy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
