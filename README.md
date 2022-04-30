@@ -9,14 +9,14 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
   <a href="https://github.com/0xDkXy">
     <img
       align="center"
-      height="200em"
+      height="170em"
       src="https://github-readme-stats.vercel.app/api?username=0xDkXy&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true&include_all_commits=true"
     />
   </a>
   <a href="https://github.com/0xDkXy">
     <img
       align="center"
-      height="200em"
+      height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,00bfff&layout=compact&text_color=fff"
     />
   </a>
