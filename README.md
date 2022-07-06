@@ -40,7 +40,7 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 - 🔭 Currently playing C++, Python and Java
 - 🎈 Interested in Computer Graphics
 - ⚽ Like playing football, A fan of FC Barcelona
-- ✨ [My blog](https://0xdkxy.github.io/Blog)
+- ✨ [My blog](https://0xdkxy.github.io/blog/)
 - 📫 How to reach me: [@0xDkXy](mailto:bo001015@outlook.com)
 
 <img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-snake.svg">
