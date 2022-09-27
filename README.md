@@ -36,12 +36,12 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 </a> -->
 
 ### About Me 😝
-- 👨‍🎓 An undergraduate student learning Computer Science
-- 🔭 Currently playing C++, Python and Java
-- 🎈 Interested in Computer Graphics
-- ⚽ Like playing football, A fan of FC Barcelona
+- 👨‍🎓 An forth-year undergraduate student learning Computer Science
+- 🔭 Currently working in C++, Python and Java
+- 🎈 Interested in Visualization, Computer Graphics
+- ⚽ Like playing football, A fan of FC Barcelona and formula 1
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
-- 📫 How to reach me: [@0xDkXy](mailto:bo001015@outlook.com)
+- 📫 Conduct me: [@0xDkXy](mailto:bo001015@outlook.com), feel free to conduct me, I'd like to talk anything intriguing with you.
 
 <img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-snake.svg">
 
