@@ -41,7 +41,7 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 - 🎈 Interested in Visualization, Computer Graphics, 
 - ⚽ Like playing football, A fan of FC Barcelona and formula 1
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
-- 📫 Contact me: [@0xDkXy](mailto:bo001015@outlook.com), feel free to contact me, I'd like to talk about anything intriguing with you.
+- 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com), feel free to contact me, I'd like to talk about anything intriguing with you.
 
 <img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-snake.svg">
 
