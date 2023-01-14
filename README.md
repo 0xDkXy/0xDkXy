@@ -43,16 +43,20 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
 - 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com), feel free to contact me, I'd like to talk about anything intriguing with you.
 
-<img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-contribution-grid-snake-dark.svg">
-
-<p align="center">
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="60%">
-</p>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/0xDkXy/count.svg" />
 </p>
+
+<img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-contribution-grid-snake-dark.svg">
+
+
+<p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="60%">
+</p>
+
+
 
 <!-- ![Metrics](/github-metrics.svg) -->
 <!-- ![Metrics](https://metrics.lecoq.io/0xDkXy?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&discussions=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=1&config.timezone=Asia%2FShanghai&config.twemoji=true) -->
