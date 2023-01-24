@@ -51,10 +51,13 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 
 <img width="100%" src="https://github.com/0xDkXy/0xDkXy/blob/output/github-contribution-grid-snake-dark.svg">
 
-
 <p align="center">
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="60%">
+  <img align="center" src="/profile-3d-contrib/profile-night-view.svg" alt="Metrics" width="100%">
 </p>
+
+<!-- <p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="60%">
+</p> -->
 
 
 
