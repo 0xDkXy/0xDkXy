@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi! / Bonjour! / 你好！
 
 I'm 0xDkXy, here is the place where I do some interesting works ✨
 
