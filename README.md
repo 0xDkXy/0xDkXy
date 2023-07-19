@@ -36,12 +36,12 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 </a> -->
 
 ### About Me 😝
-- 👨‍🎓 An forth-year undergraduate student learning Computer Science
-- 🔭 Currently working on C++, Python and Java
+- 👨‍🎓 ~~An forth-year undergraduate student learning Computer Science~~ Graduated.
+- 🔭 Currently working on C/C++, Python and Java
 - 🎈 Interested in operating system, 
-- ⚽ Like playing football, A fan of FC Barcelona and formula 1
+- ⚽ Like playing football, a fan of FC Barcelona and Formula 1
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
-- 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com), feel free to contact me, I'd like to talk about anything intriguing with you.
+- 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com)
 
 
 <p align="center"> 
