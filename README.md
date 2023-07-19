@@ -38,7 +38,7 @@ I'm 0xDkXy, here is the place where I do some interesting works ✨
 ### About Me 😝
 - 👨‍🎓 An forth-year undergraduate student learning Computer Science
 - 🔭 Currently working on C++, Python and Java
-- 🎈 Interested in Visualization, Computer Graphics, 
+- 🎈 Interested in operating system, 
 - ⚽ Like playing football, A fan of FC Barcelona and formula 1
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
 - 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com), feel free to contact me, I'd like to talk about anything intriguing with you.
