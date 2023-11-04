@@ -1,45 +1,10 @@
 ## 👋 Hi! / Bonjour! / 你好！
 
-I'm 0xDkXy, here is the place where I do some interesting works ✨
-
-
-
-
-<p align="center">
-  <a href="https://github.com/0xDkXy">
-    <img
-      align="center"
-      height="170em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xDkXy&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true&include_all_commits=true"
-    />
-  </a>
-  <a href="https://github.com/0xDkXy">
-    <img
-      align="center"
-      height="170em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,00bfff&layout=compact&text_color=fff"
-    />
-  </a>
-</p>
-
-
-
-<!-- <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xDkXy&show_icons=true&theme=dark&bg_color=10,00BFFF,008B8B&title_color=fff&text_color=fff&count_private=true&include_all_commits=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,1E90FF&title_color=fff&text_color=fefefe&layout=compact">
-</a> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <a sytle="width: 0px;" target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDkXy&theme=dark&bg_color=50,008B8B,1E90FF&title_color=fff&text_color=fefefe">
-</a> -->
-
-### About Me 😝
+### About Me
 - 👨‍🎓 ~~An forth-year undergraduate student learning Computer Science~~ Graduated.
-- 🔭 Currently working on C/C++, Python and Java
-- 🎈 Interested in operating system, 
-- ⚽ Like playing football, a fan of FC Barcelona and Formula 1
+- 🔭 Currently working on C, C++, Python and Java.
+- 🎈 Interested in the Operating System and Computer Architecture.
+- ⚽ A fan of FC Barcelona and Formula 1.
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
 - 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com)
 
