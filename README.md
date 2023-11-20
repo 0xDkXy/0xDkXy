@@ -8,6 +8,8 @@
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
 - 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center"> 
   Visitor count<br>
