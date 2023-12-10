@@ -6,7 +6,7 @@
 - 🎈 Interested in the Operating System and Computer Architecture.
 - ⚽ A fan of FC Barcelona and Formula 1.
 - ✨ [My blog](https://0xdkxy.github.io/blog/)
-- 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com)
+- 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com) or [@lowell](mailto:lowell@0xdkxy.com)
 
 <!--START_SECTION:waka-->
 
