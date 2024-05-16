@@ -11,7 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua    1 min           ███████████████▓░░░░░░░░░   62.50 %
+conf   0 secs          █████████▒░░░░░░░░░░░░░░░   37.50 %
 ```
 
 <!--END_SECTION:waka-->
