@@ -11,9 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-E-mail   6 mins          ██████████████████████▓░░   91.21 %
-Roff     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-YAML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
