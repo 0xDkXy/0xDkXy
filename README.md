@@ -1,7 +1,7 @@
 ## 👋 Hi! / Bonjour! / 你好！
 
 ### About Me
-- 👨‍🎓 ~~An forth-year undergraduate student learning Computer Science~~ ~~Graduated~~ I will join Rutgers University as a CS PhD student in 2024 fall.
+- 👨‍🎓 ~~An forth-year undergraduate student learning Computer Science~~ ~~Graduated~~ An incoming CS Ph.D. student at Rutgers.
 - 🔭 Currently working on C, C++, Python and Java.
 - 🎈 Interested in the Operating System and Computer Architecture.
 - ⚽ A fan of FC Barcelona and Formula 1.
