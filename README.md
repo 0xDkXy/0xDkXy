@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Config   3 mins          █████████████████████░░░░   83.78 %
-INI      0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
