@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   41 mins         ██████████████░░░░░░░░░░░   56.07 %
+OCaml      15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
+C++        9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Text       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+typst      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
