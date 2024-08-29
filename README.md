@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           43 mins         ██████████▒░░░░░░░░░░░░░░   41.49 %
-Makefile           14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-reStructuredText   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-typst              11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-Diff               7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
