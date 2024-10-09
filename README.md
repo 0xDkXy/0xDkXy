@@ -1,11 +1,11 @@
 ## 👋 Hi! / Bonjour! / 你好！
 
 ### About Me
-- 👨‍🎓 ~~An forth-year undergraduate student learning Computer Science~~ ~~Graduated~~ An incoming CS Ph.D. student at Rutgers.
+- 👨‍🎓 ~~An forth-year undergraduate student learning Computer Science~~ ~~Graduated~~ ~~An incoming~~A first-year CS Ph.D. student at Rutgers.
 - 🔭 Currently working on C, C++, Python and Java.
 - 🎈 Interested in the Operating System and Computer Architecture.
 - ⚽ A fan of FC Barcelona and Formula 1.
-- ✨ [My blog](https://0xdkxy.github.io/blog/)
+- ✨ [Homepage](https://0xdkxy.com)
 - 📫 Contact me: [@0xDkXy](mailto:0xdkxy.pollardlee@gmail.com) or [@lowell](mailto:lowell@0xdkxy.com)
 
 <!--START_SECTION:waka-->
