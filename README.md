@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typst      1 hr 24 mins    ████████████████████████▒   96.88 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
