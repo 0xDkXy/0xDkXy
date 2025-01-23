@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C            1 hr 3 mins     ███████████████░░░░░░░░░░   59.99 %
+Bash         21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Vim Script   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+sshconfig    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+C++          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
