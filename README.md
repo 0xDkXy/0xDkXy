@@ -11,9 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C           4 hrs 29 mins   ████████████████████████▓   98.91 %
-Makefile    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-sshconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+sshconfig   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
