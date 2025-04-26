@@ -11,8 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        14 mins         ████████████████████████▓   98.39 %
-sshconfig   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+sshconfig   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
